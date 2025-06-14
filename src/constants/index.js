@@ -1,4 +1,4 @@
-import { meta, shopify, starbucks, tesla } from "../assets/images";
+import { TCS, vedantu, meta, shopify, starbucks, tesla } from "../assets/images";
 import {
     car,
     contact,
@@ -113,7 +113,7 @@ export const experiences = [
     {
         title: " Product Engineer",
         company_name: "Tata Consultancy Services",
-        icon: starbucks,
+        icon: TCS,
         iconBg: "#accbe1",
         date: "MaY 2024 - May 2025",
         points: [
@@ -126,7 +126,7 @@ export const experiences = [
     {
         title: "System Engineer",
         company_name: "Tata Consultancy Services",
-        icon: tesla,
+        icon: TCS,
         iconBg: "#fbc3bc",
         date: "Feb 2023 - April 2024",
         points: [
@@ -138,8 +138,8 @@ export const experiences = [
     },
     {
         title: "Assistant System Engineer",
-        company_name: "Shopify",
-        icon: shopify,
+        company_name: "Tata Consultancy Services",
+        icon: TCS,
         iconBg: "#b7e4c7",
         date: "Dec 2021 - Feb 2023",
         points: [
@@ -150,7 +150,7 @@ export const experiences = [
     {
         title: "Software Engineer",
         company_name: "VEDANTU INNOVATION PVT LIMITED",
-        icon: meta,
+        icon: vedantu,
         iconBg: "#a2d2ff",
         date: "Oct 2020 - Sep 2021",
         points: [
